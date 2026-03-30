@@ -31,8 +31,9 @@ The CAS2023 dataset is dedicated to cerebral artery segmentation in three-dimens
 }
 ```
 # Benchmark
-![Overview](./figures/fig3.png)
 ![Overview](./figures/fig4.png)
+![Overview](./figures/fig3.png)
+
 
 # Visualization
 Qualitative comparison of 3D segmentation results on the ImageCAS and CAS2023 datasets. Red indicates true positives; Green denotes false positives.
