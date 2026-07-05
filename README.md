@@ -2,7 +2,7 @@
 
 HiLo is a 3D vessel segmentation framework for cardio-cerebrovascular imaging. It jointly models spatial and spectral high-/low-frequency cues to preserve fine tubular details while encoding large-scale anatomical structure.
 
-[![Hugging Face weights](https://img.shields.io/badge/Weights-HuggingFace-yellow)]()
+[![Hugging Face weights](https://img.shields.io/badge/Weights-HuggingFace-yellow)](https://huggingface.co/deepang/HiLo)
 
 
 > Published in [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417426023626).
@@ -19,7 +19,7 @@ The HiLo architecture contains two core components. The HiLo block in the encode
 
 ## News
 
-- Pretrained weights: [Hugging Face]()
+- Pretrained weights: [Hugging Face](https://huggingface.co/deepang/HiLo)
 - Paper: [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417426023626)
 
 ## Installation

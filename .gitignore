@@ -16,6 +16,10 @@ env/
 logs/
 outputs/
 checkpoints/
+*.ckpt
+*.pth
+*.pt
+*.safetensors
 result/
 results/
 runs/
