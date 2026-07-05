@@ -1,0 +1,14 @@
+nibabel
+monai==1.2.0
+transformers==4.53.2
+opencv-python
+pywavelets
+timm
+scikit-image==0.18.3
+numpy==1.26.4
+
+
+
+
+
+
